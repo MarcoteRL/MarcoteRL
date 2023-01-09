@@ -9,10 +9,12 @@ This is the place, where I actually use my brain for doing stuff😂
 
 <h2>My Github Stats</h2>
 <br>
-  <img align="center" src = "https://github-readme-stats.vercel.app/api?username=MarcoteRL&show_icons=true&theme=tokyonight&line_height=27">
-  <img align="center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoteRL&theme=tokyonight">
-
+<p align ="center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=MarcoteRL&show_icons=true&theme=tokyonight&line_height=27">
+</p>
 <p align = "center">
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=MarcoteRL&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0" />
 </p> 
-
+<p align = "center">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoteRL&theme=tokyonight">
+</p> 
