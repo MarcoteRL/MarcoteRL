@@ -1,4 +1,4 @@
-[![MasterHead](https://i.imgur.com/DL9M9NT.png)](https://github.com/MarcoteRL)
+[![MasterHead](https://i.imgur.com/6nk8PJn.png)](https://github.com/MarcoteRL)
 <h1>Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a></h1>    
 
 This is the place where I actualy use my brain for doing stuff😂
