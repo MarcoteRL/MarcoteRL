@@ -1,4 +1,3 @@
-
 [![MasterHead](https://i.imgur.com/s69g2R7.png)](https://github.com/MarcoteRL)
 <h1>Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a></h1>    
 
@@ -10,9 +9,9 @@ This is the place, where I actually use my brain for doing stuff😂
 
 <h2>My Github Stats</h2>
 <br>
-<p align = "top">
+<p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=MarcoteRL&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoteRL&layout=compact&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoteRL&layout=compact&theme=transparent">
 </p>
 
 <p align = "center">
