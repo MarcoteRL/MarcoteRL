@@ -11,3 +11,8 @@ This is the place where I actualy use my brain for doing stuff😂
   <img  src = "https://github-readme-stats.vercel.app/api?username=MarcoteRL&show_icons=true&theme=tokyonight&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoteRL&theme=tokyonight">
 </p>
+
+<p align = "center">
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=MarcoteRL&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+</p> 
+
