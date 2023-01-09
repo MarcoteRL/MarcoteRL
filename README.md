@@ -6,8 +6,23 @@ This is the place, where I actually use my brain for doing stuff😂
 - 🔭 I’m currently studying Web App Development
 - 🌱 I’m currently learning JS, TS, Python...
 - ⚡ Curious fact: Next year, I'm going to study AI🤖 and Big Data📊
+<h2>Languages and Tools</h2>
 
-<h2 align="center">My Github Stats</h2>
+<p align="left">
+ <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
+ <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
+ <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python"/>
+ <img src="https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=Typescript"/>
+ <img src="https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=Bootstrap"/>
+ <img src="https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP"/>
+ <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
+ <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
+ <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+ <img src="https://img.shields.io/badge/-HTML-black?style=flat-square&logo=HTML"/>
+ <img src="https://img.shields.io/badge/-CSS-black?style=flat-square&logo=CSS"/>
+</p>
+
+<h2>My Github Stats</h2>
 <br>
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=MarcoteRL&show_icons=true&theme=tokyonight&line_height=27">
