@@ -8,6 +8,6 @@ This is the place where I actualy use my brain for doing stuff😂
 - ⚡ Fun fact: Next year, I'm going to study AI🤖 and Big Data📊
 
 <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=MarcoteRL&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoteRL&theme=radical">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=MarcoteRL&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoteRL&theme=tokyonight">
 </p>
