@@ -18,8 +18,8 @@ This is the place, where I actually use my brain for doing stuff😂
  <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
  <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
- <img src="https://img.shields.io/badge/-HTML-black?style=flat-square&logo=HTML"/>
- <img src="https://img.shields.io/badge/-CSS-black?style=flat-square&logo=CSS"/>
+ <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=HTML5"/>
+ <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=CSS3"/>
 </p>
 
 <h2>My Github Stats</h2>
