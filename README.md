@@ -1,4 +1,4 @@
-[![MasterHead](C:\Users\andre\Desktop\banner.jpg)](https://github.com/MarcoteRL)
+[![MasterHead](https://imgur.com/a/81kpYW3)](https://github.com/MarcoteRL)
 
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>    
 
