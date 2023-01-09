@@ -14,6 +14,7 @@ This is the place, where I actually use my brain for doing stuff😂
  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python"/>
  <img src="https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=Typescript"/>
  <img src="https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=Bootstrap"/>
+ <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=React"/>
  <img src="https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP"/>
  <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
