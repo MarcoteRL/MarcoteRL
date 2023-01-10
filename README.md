@@ -2,7 +2,7 @@
 <h1>Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a></h1>    
 
 This is the place, where I actually use my brain for doing stuff😂
-<img align="right" alt="meme" width="230" src="https://media0.giphy.com/media/yYSSBtDgbbRzq/giphy.gif?cid=ecf05e47ubply3xmxkljeagttcfynzw7us1cgiu6d4urz309&rid=giphy.gif&ct=g">
+<img align="right" src="https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51" alt="Jokes Card" />
 
 - 🔭 I’m currently studying Web App Development
 - 🌱 I’m currently learning JS, TS, Python...
@@ -33,5 +33,3 @@ This is the place, where I actually use my brain for doing stuff😂
 <p align = "center">
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=MarcoteRL&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0" />
 </p> 
-
-<img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
