@@ -2,6 +2,7 @@
 <h1>Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a></h1>    
 
 This is the place, where I actually use my brain for doing stuff😂
+<img align="right" alt="meme" width="400" src="https://media0.giphy.com/media/yYSSBtDgbbRzq/giphy.gif?cid=ecf05e47ubply3xmxkljeagttcfynzw7us1cgiu6d4urz309&rid=giphy.gif&ct=g">
 
 - 🔭 I’m currently studying Web App Development
 - 🌱 I’m currently learning JS, TS, Python...
