@@ -33,4 +33,5 @@ This is the place, where I actually use my brain for doing stuff😂
 <p align = "center">
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=MarcoteRL&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0" />
 </p> 
-**![Jokes Card](https://readme-jokes.vercel.app/api)**
+
+<img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
