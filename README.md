@@ -7,10 +7,9 @@ This is the place, where I actually use my brain for doing stuff😂
 - 🔭 I’m currently studying Web App Development
 - 🌱 I’m currently learning JS, TS, Python...
 - ⚡ Curious fact: Next year, I'm going to study AI🤖 and Big Data📊
-<h2>Languages and Tools</h2>
+<h2>🔨Languages and Tools</h2>
 
 <div align="left">
-    <h3>🔨 Languages and Tools:</h3>
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg"
         alt="JavaScript" width="40" height="40">
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-plain.svg"
