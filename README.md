@@ -6,6 +6,7 @@ This is the place, where I actually use my brain for doing stuff😂
 
 - 🔭 I’m currently studying Web App Development
 - 🌱 I’m currently learning JS, TS, Python...
+- 📫 How to reach me: marcotedev@gmail.com
 - ⚡ Curious fact: Next year, I'm going to study AI🤖 and Big Data📊
 <h2>Languages and Tools</h2>
 
