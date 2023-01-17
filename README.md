@@ -1,7 +1,6 @@
 [![MasterHead](https://i.imgur.com/uAW77F7.gif)](https://github.com/MarcoteRL)
-<h1>Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a></h1>    
+<h1>Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></h1>    
 
-This is the place, where I actually use my brain for doing stuff😂
 <img align="right" src="https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51" alt="Jokes Card" />
 
 - 🔭 I’m currently studying Web App Development
