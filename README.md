@@ -39,9 +39,9 @@
 <h2>My Github Stats</h2>
 <br>
 <p align = "center">
-  <img  src = "https://github-readme-stats-sigma-five.vercel.app/api/?username=MarcoteRL&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats-sigma-five.vercel.app/api//top-langs/?username=MarcoteRL&hide=css,scss&theme=tokyonight">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=MarcoteRL&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false">
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=MarcoteRL&theme=shades-of-purple&hide_border=false">
 </p>
 <p align = "center">
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=MarcoteRL&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0" />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoteRL&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p> 
