@@ -14,8 +14,8 @@
 <h2>📊My Github Stats</h2>
 <br>
 <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=MarcoteRL&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true" style="width:30vw; float:left">
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=MarcoteRL&theme=shades-of-purple&hide_border=false" style="width:30vw; float:right">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=MarcoteRL&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true" style="max-width:300px; float:left">
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=MarcoteRL&theme=shades-of-purple&hide_border=false" style="max-width:300px; float:right">
 </p>
 <p align = "center">
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoteRL&theme=shades-of-purple&hide_border=false&hide=css,scss&include_all_commits=true&count_private=true&layout=compact" />
