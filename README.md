@@ -1,8 +1,6 @@
 [![MasterHead](https://i.imgur.com/uAW77F7.gif)](https://github.com/MarcoteRL)
 <h1>Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></h1>    
 
-<img align="right" src="https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51" alt="Jokes Card" style="width:30%; height:100%" />
-
 - 🔭 I’m currently studying Web App Development
 - 🌱 I’m currently learning JS, TS, Python...
 - 📫 How to reach me: marcotedev@gmail.com
