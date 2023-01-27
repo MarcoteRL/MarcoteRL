@@ -13,7 +13,7 @@
 
 <h2>📊My Github Stats</h2>
 <br>
-<p align = "center">
+<p align = "left">
   <img  src = "https://github-readme-stats.vercel.app/api?username=MarcoteRL&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false">
   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=MarcoteRL&theme=shades-of-purple&hide_border=false">
 </p>
