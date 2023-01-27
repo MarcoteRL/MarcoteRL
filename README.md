@@ -18,8 +18,8 @@
   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=MarcoteRL&theme=shades-of-purple&hide_border=false">
 </p>
 <p align = "center">
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoteRL&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoteRL&theme=shades-of-purple&hide_border=false&hide[html,css,scss]&include_all_commits=true&count_private=true&layout=compact" />
 </p> 
 
 ## 🏆 My GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MarcoteRL&hide[html,css,scss]theme=discord&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=MarcoteRL&theme=discord&no-frame=true&no-bg=true&margin-w=4)
