@@ -22,4 +22,4 @@
 </p> 
 
 ## 🏆 My GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MarcoteRL&theme=discord&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=MarcoteRL&hide[html,css,scss]theme=discord&no-frame=true&no-bg=true&margin-w=4)
